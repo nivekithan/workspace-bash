@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "lib": ["ES2018"],
+    "noEmit": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
